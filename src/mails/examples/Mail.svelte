@@ -15,7 +15,7 @@
 
 <!-- Image Header -->
 <mj-section
-        background-url="https://1.bp.blogspot.com/-TPrfhxbYpDY/Uh3Refzk02I/AAAAAAAALw8/5sUJ0UUGYuw/s1600/New+York+in+The+1960's+-+70's+(2).jpg"
+        background-url="https://source.unsplash.com/Xh9SM7hNLu0/600x300"
         background-size="cover"
         background-repeat="no-repeat"
         padding="100px 0"
@@ -30,7 +30,7 @@
         </mj-text>
 
         <mj-button background-color="#F63A4D"
-                   href="#">
+                   href="https://mjml.io/">
             Promotion
         </mj-button>
 
@@ -55,15 +55,18 @@
         </mj-text>
 
         <mj-button background-color="#F45E43"
-                   href="#">Learn more
+                   href="https://mjml.io/">Learn more
         </mj-button>
 
     </mj-column>
 </mj-section>
 
 <!-- HERO AND BTN-->
-<mj-hero mode="fixed-height" height="340px" background-width="600px" background-height="340px" background-url="https://cloud.githubusercontent.com/assets/1830348/15354890/1442159a-1cf0-11e6-92b1-b861dadf1750.jpg" padding="100px 0px">
-    <mj-text padding="20px" color="#ffffff" font-family="Helvetica" align="center" font-size="45px" line-height="45px" font-weight="900">
+<mj-hero mode="fixed-height" height="340px" background-width="600px" background-height="340px"
+         background-url="https://cloud.githubusercontent.com/assets/1830348/15354890/1442159a-1cf0-11e6-92b1-b861dadf1750.jpg"
+         padding="100px 0px">
+    <mj-text padding="20px" color="#ffffff" font-family="Helvetica" align="center" font-size="45px" line-height="45px"
+             font-weight="900">
         GO TO SPACE
     </mj-text>
     <mj-button background-color="#ff3e00" href="https://mjml.io/" align="center">
@@ -96,7 +99,7 @@
             augue semper. Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus.
         </mj-text>
 
-        <mj-divider border-color="#ff3e00" />
+        <mj-divider border-color="#ff3e00"/>
 
         <mj-text>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque molestias, odit perferendis qui quia

@@ -12,7 +12,7 @@
 
 .DS_Store
 .env
-
+.idea
 .svelte-kit/
 build/
 node_modules/
